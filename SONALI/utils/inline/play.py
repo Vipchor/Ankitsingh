@@ -76,7 +76,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="✰ MR ANKIT🔥➛ ✰", url="http://t.me/II_CLASSY_Il",
+                text="", url="",
             ),
             InlineKeyboardButton(
                 text="✰ ᴍɪꜱꜱ ᴀɴᴋɪᴛᴀ🔥➛ ✰", url="https://t.me/+rSlnxFeTxbc1MzJl",
