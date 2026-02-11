@@ -1,7 +1,5 @@
 aiofiles
 aiohttp
-#asyncio==3.4.3
-asyncio
 beautifulsoup4
 dnspython
 ffmpeg-python
@@ -23,10 +21,8 @@ pyyaml==6.0.1
 requests
 qrcode
 SafoneAPI==1.0.65
-tgcrypto
 gpytranslate
 MukeshAPI
-search_engine_parser
 googlesearch-python
 youtube-search-python
 spotipy
@@ -35,11 +31,10 @@ speedtest-cli
 unidecode
 urllib3
 wget
-git+pyrogram==2.0.106
-tgcrypto
 yt-dlp
 bing_image_downloader
-git+https://github.com/alexmercerind/youtube-search-python@main
-git+https://github.com/joetats/youtube_search@master
 bing-image-urls
-git+https://github.com/TEAMPURVI/PurviAPI
+
+# ✅ STABLE PYROGRAM
+pyrogram==2.0.106
+tgcrypto
